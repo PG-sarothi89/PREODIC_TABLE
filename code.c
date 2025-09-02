@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main()
+
+// This code is made By PARTHO SAROTHI GHOSH
 {
     int n, m, a, Exit, Exi;
     printf("Welcome To Modern Periodic Table\n");
